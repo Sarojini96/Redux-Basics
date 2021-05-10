@@ -1,8 +1,8 @@
 # Redux-Basics
 
 Installation:
-npm install redux
- npm install react-redux [ this will help to connect redux to our react native application]
+#npm install redux
+#npm install react-redux [ this will help to connect redux to our react native application]
 
 /**
  * Store - holds our state - THERE IS ONLY ONE STATE 
@@ -12,4 +12,4 @@ npm install redux
  *  - pure functions 
  *  - only mandatory argument is the 'type' 
  * Subscriber - listens for state change to update the ui  
- */
+ **/
